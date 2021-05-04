@@ -1,3 +1,3 @@
 # MWD-Project
 Portfolio Project
-https://ariellb123.github.io/mwd-project
+https://Ariellb123.github.io/MWD-Project
