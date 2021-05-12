@@ -247,3 +247,32 @@ body {
   padding: 10px;
   width: 150px;
 }
+ #MyPSP{
+  font-size: 18px;
+  position: absolute;
+  top: 650px;
+  left: 875px;
+  font-family: Goldman, sans-serif;
+  }
+  #BT2{
+  padding: 20px;
+  font-size: 18px;
+  position: absolute;
+  top: 635px;
+  left: 75px;
+  font-family: Goldman, sans-serif;
+  }
+  #HTS7{
+ font-size: 18px;
+  position: absolute;
+  top: 650px;
+  left: 675px;
+  font-family: Goldman, sans-serif;
+  }
+  #NSUNS4{
+  font-size: 18px;
+  position: absolute;
+  top: 650px;
+  left: 1125px;
+  font-family: Goldman, sans-serif;
+  }
