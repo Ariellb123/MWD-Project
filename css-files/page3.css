@@ -31,6 +31,31 @@
   top: 200px;
   left: 1100px;
   }
+#bannera{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 200px;
+  left: -20px;
+  }
+  
+  #bannerb{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 200px;
+  left: 425px;
+  }
+   #bannerc{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 180px;
+  left: 825px;
+  }
   #PS1{
   padding: 20px;
   font-size: 18px;
