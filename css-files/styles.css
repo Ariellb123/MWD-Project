@@ -162,32 +162,32 @@ input {
 
 #Button1 {
   color: hsl(0, 100%, 100%);
-  background-color: hsl(136, 33%, 43%);
+  background-color: hsl(150, 89%, 43%);
   padding: 10px;
   width: 150px;
 }
 
 #Button2 {
-  background-color: hsl(200, 95%, 55%);
+  background-color: hsl(200, 55%, 43%);
   padding: 10px;
   width: 150px;
 }
 
 #Button3 {
   color: hsl(0, 100%, 100%);
-  background-color: hsl(0, 100%, 50%);
+  background-color: hsl(20, 80%, 50%);
   padding: 10px;
   width: 150px;
 }
 #Button4 {
   color: hsl(0, 100%, 100%);
-  background-color: hsl(136, 33%, 43%);
+  background-color: hsl(175, 10%, 65%);
   padding: 10px;
   width: 150px;
 }
 
 #Button5 {
-  background-color: hsl(200, 95%, 55%);
+  background-color: hsl(150, 80%, 50%);
   padding: 10px;
   width: 150px;
 }
