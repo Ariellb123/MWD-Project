@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Zen+Dots);
 @import url(https://fonts.googleapis.com/css?family=Trade+Winds);
-@import url(https://fonts.googleapis.com/css?family=Alice);
+@import url(https://fonts.googleapis.com/css?family=Goldman);
 
 body {
   background-color: hsl(155, 48%, 79%);
-  font-family: 'Alice', serif;
+  font-family: 'Goldman', serif;
 }
 
 img {
