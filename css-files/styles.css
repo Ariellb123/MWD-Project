@@ -159,3 +159,23 @@ input {
   width: 100px;
   height: 50px;
 }
+
+#Button1 {
+  color: hsl(0, 100%, 100%);
+  background-color: hsl(136, 33%, 43%);
+  padding: 10px;
+  width: 150px;
+}
+
+#Button2 {
+  background-color: hsl(200, 95%, 55%);
+  padding: 10px;
+  width: 150px;
+}
+
+#Button3 {
+  color: hsl(0, 100%, 100%);
+  background-color: hsl(0, 100%, 50%);
+  padding: 10px;
+  width: 150px;
+}
