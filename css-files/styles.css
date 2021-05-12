@@ -17,6 +17,72 @@ body {
 .Div1 {
   background-color: hsl(0, 0%, 0%);
 }
+#banner{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 50px;
+  left: 0px;
+  }
+  
+  #banner2{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 50px;
+  left: 450px;
+  }
+   #banner3{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 50px;
+  left: 900px;
+  }
+ #banner4{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 50px;
+  left: 1350px;
+  }
+  #PS1{
+  padding: 20px;
+  font-size: 18px;
+  z-index:0;
+  position: absolute;
+  top: 485px;
+  left: 45px;
+  font-family: Arial, sans-serif;
+  }
+  #PS2{
+ font-size: 18px;
+  z-index:0;
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  font-family: Arial, sans-serif;
+  }
+  #PS3-PS4{
+  font-size: 18px;
+  z-index:0;
+  position: absolute;
+  top: 500px;
+  left: 975px;
+  font-family: Arial, sans-serif;
+  }
+  #PSP{
+   font-size: 18px;
+  z-index:0;
+  position: absolute;
+  top: 500px;
+  left: 1375px;
+  font-family: Arial, sans-serif;
+  }
 
 .blogText {
   border: 2px outset black;
