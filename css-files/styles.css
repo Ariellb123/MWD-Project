@@ -7,26 +7,6 @@ body {
   font-family: 'Alice', serif;
 }
 
-img {
-  border: 2px solid black;
-  margin-right: 25px;
-}
-
-header {
-  background-color: hsl(136, 33%, 43%);
-  margin: -25px;
-  padding: 30px;
-}
-
-li {
-  padding: 10px;
-}
-
-input {
-  padding: 10px;
-  width: 150px;
-}
-
 .HeadDiv {
   border: 10px outset navy;
   background-color: blue;
@@ -57,12 +37,6 @@ input {
   visibility: hidden;
 }
 
-.pageFive {
-  font-family: 'Space Mono', monospace;
-  text-align: center;
-  background-color: hsl(25, 100%, 95%);
-}
-
 .five {
   text-align: justify;
   margin: 25px;
@@ -81,19 +55,9 @@ input {
   margin-top: 25px;
 }
 
-.pageFour {
-  font-family: 'Open Sans', sans-serif;
-  background-color:  hsl(0, 0%, 13%);
-  color: hsl(0, 100%, 100%);
-}
-
 .pageTwo {
   font-family: 'Trade Winds', cursive;
   color: hsl(0, 0%, 0%);
-}
-
-.pageThree {
-  background-color: hsl(200, 95%, 55%);
 }
 
 #output {
@@ -119,17 +83,12 @@ input {
   width: 225px;
 }
 
-#button1 {
-  background-color: hsl(136, 33%, 43%);
-  border-radius: 10px;
-}
-
 #tiny {
   width: 10px;
   height: 10px;
   position: absolute;
   white-space: pre;
-  font-family: Arial, sans-serif;
+  font-family: Alice, sans-serif;
   color: hsl(49, 100%, 60%);
 }
 
@@ -140,24 +99,11 @@ input {
   color: hsl(119, 100%, 26%);
 }
 
-#thirdPageButton {
-  padding: 10px;
-  border-radius: 5px;
-  width: 100px;
-  height: 50px;
-}
 #bottom {
   position: absolute;
   top: 500px;
   white-space: pre;
   color: hsl(119, 100%, 26%);
-}
-
-#thirdPageButton {
-  padding: 10px;
-  border-radius: 5px;
-  width: 100px;
-  height: 50px;
 }
 
 #Button1 {
