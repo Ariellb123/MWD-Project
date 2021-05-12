@@ -179,3 +179,22 @@ input {
   padding: 10px;
   width: 150px;
 }
+#Button4 {
+  color: hsl(0, 100%, 100%);
+  background-color: hsl(136, 33%, 43%);
+  padding: 10px;
+  width: 150px;
+}
+
+#Button5 {
+  background-color: hsl(200, 95%, 55%);
+  padding: 10px;
+  width: 150px;
+}
+
+#Button6 {
+  color: hsl(0, 100%, 100%);
+  background-color: hsl(0, 100%, 50%);
+  padding: 10px;
+  width: 150px;
+}
