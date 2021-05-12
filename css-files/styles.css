@@ -77,6 +77,31 @@ body {
   top: 180px;
   left: 825px;
   }
+#bannerdbz{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 180px;
+  left: 25px;
+  }
+  
+  #bannerheat{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 180px;
+  left: 550px;
+  }
+   #bannerstorm{
+ width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 180px;
+  left: 1080px;
+  }
   #PS1{
   padding: 20px;
   font-size: 18px;
